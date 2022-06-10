@@ -43,4 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4
+    "gh-pages": "^4.0.0"
+  }
+}

@@ -7,7 +7,7 @@ import {
 } from './route/route'
 import Statelist from './components/statewise/Statelist';
 
-function App() {
+const App = ()  =>{
   return (
     <>
       <BrowserRouter>
